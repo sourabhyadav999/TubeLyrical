@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367121228812",
+    "firebase_url": "https://tube-lyrical.firebaseio.com",
+    "project_id": "tube-lyrical",
+    "storage_bucket": "tube-lyrical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367121228812:android:98a5748be8194dcc",
+        "android_client_info": {
+          "package_name": "tube_lyrical.gmail.yadavsourabh4035.com.tubelyrical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367121228812-uaajtjepa4jdueqa2tp663qjb9h6dpo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABewmNP5V0v9sFV5EAlyoNIdg0Ck8HY7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367121228812-uaajtjepa4jdueqa2tp663qjb9h6dpo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
